@@ -1,2 +1,3 @@
 # techdegree-project4-gameapp
- game 'phrase hunter'
+game 'phrase hunter'
+guess the right letters from random phrases!
